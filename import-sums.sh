@@ -1,0 +1,1 @@
+cat sumDelay.txt | redis-cli --pipe

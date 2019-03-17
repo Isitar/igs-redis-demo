@@ -1,0 +1,1 @@
+cat cntDelay.txt | redis-cli --pipe

@@ -1,0 +1,1 @@
+redis-cli --eval getAvgByAirline.lua

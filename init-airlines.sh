@@ -1,0 +1,1 @@
+cat init-airlines.txt | redis-cli --pipe
